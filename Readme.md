@@ -4,7 +4,7 @@
 
 #### Enthuisast as a learner and coder. patient about problem solving.
 
-#### Here is my [Portfolio](https://azimuahamed.netlify.app)    Here is my [Resume](https://drive.google.com/file/d/1pBv7mx2m2dq5igLs8CQ81bpQYTku5ooc/view?usp=sharing)
+#### Here is my [Portfolio](https://md-jahid-hasan-229c62.netlify.app/)    Here is my [Resume](https://drive.google.com/file/d/1pBv7mx2m2dq5igLs8CQ81bpQYTku5ooc/view?usp=sharing)
 
 <table align="center">
   <tr>
